@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/ara_star-test.dir/test/test_ara_star.cpp.o CMakeFiles/ara_star-test.dir/home/aakash/Desktop/Bonn/Humanoid_Robotics/group-25/src/gtest/src/gtest-all.cc.o  -o ara_star-test -rdynamic libara_star.a -lpthread 

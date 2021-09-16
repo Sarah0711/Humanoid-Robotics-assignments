@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/AbstractNode.h
+stdexcept
+-
+string
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/ClosedList.h
+set
+-
+path_planning/AbstractNode.h
+-
+path_planning/FileIO.h
+-
+iostream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/FileIO.h
+fstream
+-
+deque
+-
+path_planning/AbstractNode.h
+-
+path_planning/GridNode.h
+-
+path_planning/GridMap.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/GridMap.h
+stdexcept
+-
+vector
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/GridNode.h
+map
+-
+sstream
+-
+string
+-
+path_planning/AbstractNode.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/Heuristic.h
+path_planning/AbstractNode.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/OpenList.h
+map
+-
+set
+-
+queue
+-
+path_planning/FileIO.h
+-
+path_planning/AbstractNode.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/PathPlanning.h
+sstream
+-
+path_planning/AbstractNode.h
+-
+path_planning/GridNode.h
+-
+path_planning/GridMap.h
+-
+path_planning/Heuristic.h
+-
+ClosedList.h
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/ClosedList.h
+OpenList.h
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/include/path_planning/OpenList.h
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/src/ClosedList.cpp
+path_planning/ClosedList.h
+-
+path_planning/FileIO.h
+-
+path_planning/AbstractNode.h
+-
+path_planning/FileIO.h
+-
+iostream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/src/FileIO.cpp
+path_planning/FileIO.h
+-
+iostream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/src/GridNode.cpp
+path_planning/GridNode.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/src/OpenList.cpp
+path_planning/OpenList.h
+-
+iostream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/11_path_planning/src/PathPlanning.cpp
+path_planning/PathPlanning.h
+-
+cmath
+-
+

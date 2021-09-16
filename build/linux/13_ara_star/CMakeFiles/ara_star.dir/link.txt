@@ -1,0 +1,2 @@
+/usr/bin/ar qc libara_star.a  CMakeFiles/ara_star.dir/src/ARAStar.cpp.o CMakeFiles/ara_star.dir/src/Logger.cpp.o CMakeFiles/ara_star.dir/src/GridNode.cpp.o CMakeFiles/ara_star.dir/src/PathPlanning.cpp.o CMakeFiles/ara_star.dir/src/OpenList.cpp.o CMakeFiles/ara_star.dir/src/ClosedList.cpp.o CMakeFiles/ara_star.dir/src/FileIO.cpp.o
+/usr/bin/ranlib libara_star.a

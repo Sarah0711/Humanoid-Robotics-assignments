@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpath_planning.a  CMakeFiles/path_planning.dir/src/PathPlanning.cpp.o CMakeFiles/path_planning.dir/src/GridNode.cpp.o CMakeFiles/path_planning.dir/src/FileIO.cpp.o CMakeFiles/path_planning.dir/src/ClosedList.cpp.o CMakeFiles/path_planning.dir/src/OpenList.cpp.o
+/usr/bin/ranlib libpath_planning.a

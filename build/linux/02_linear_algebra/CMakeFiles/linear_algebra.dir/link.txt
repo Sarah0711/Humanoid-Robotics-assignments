@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++  -fPIC -g  -shared -Wl,-soname,liblinear_algebra.so -o liblinear_algebra.so CMakeFiles/linear_algebra.dir/src/LinearAlgebra.cpp.o 

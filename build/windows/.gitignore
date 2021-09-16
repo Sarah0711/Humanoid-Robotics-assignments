@@ -1,0 +1,6 @@
+*.aps
+*.rc
+resource.h
+WindowsThirdPartyIncludes/
+WindowsThirdPartyLibs/
+packages/

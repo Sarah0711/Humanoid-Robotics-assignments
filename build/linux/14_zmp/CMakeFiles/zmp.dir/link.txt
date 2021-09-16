@@ -1,0 +1,2 @@
+/usr/bin/ar qc libzmp.a  CMakeFiles/zmp.dir/src/ZMP.cpp.o
+/usr/bin/ranlib libzmp.a

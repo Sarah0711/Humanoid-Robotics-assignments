@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/irm_node.dir/src/main.cpp.o CMakeFiles/irm_node.dir/src/FileIO.cpp.o  -o irm_node -rdynamic libirm.a 

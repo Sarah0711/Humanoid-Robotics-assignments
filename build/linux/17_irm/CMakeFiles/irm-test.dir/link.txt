@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/irm-test.dir/test/test_irm.cpp.o CMakeFiles/irm-test.dir/home/aakash/Desktop/Bonn/Humanoid_Robotics/group-25/src/gtest/src/gtest-all.cc.o  -o irm-test -rdynamic libirm.a -lpthread 

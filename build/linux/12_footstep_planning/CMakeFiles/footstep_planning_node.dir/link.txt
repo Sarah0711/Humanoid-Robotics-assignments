@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/footstep_planning_node.dir/src/main.cpp.o  -o footstep_planning_node -rdynamic libfootstep_planning.a 

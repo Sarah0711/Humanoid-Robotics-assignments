@@ -1,0 +1,164 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/../includes/angles/angles.h
+algorithm
+-
+cmath
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/AbstractNode.h
+stdexcept
+-
+string
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/ClosedList.h
+set
+-
+footstep_planning/AbstractNode.h
+-
+footstep_planning/FileIO.h
+-
+iostream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/FileIO.h
+fstream
+-
+deque
+-
+footstep_planning/FootstepMap.h
+-
+footstep_planning/AbstractNode.h
+-
+footstep_planning/GridMap.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/FootstepMap.h
+vector
+-
+limits
+-
+footstep_planning/GridMap.h
+-
+angles/angles.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/FootstepNode.h
+footstep_planning/AbstractNode.h
+-
+map
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/FootstepPlanning.h
+footstep_planning/PathPlanning.h
+-
+footstep_planning/FootstepPlanning.h
+-
+footstep_planning/FootstepMap.h
+-
+footstep_planning/FootstepNode.h
+-
+angles/angles.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/GridMap.h
+stdexcept
+-
+vector
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/Heuristic.h
+footstep_planning/AbstractNode.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/OpenList.h
+map
+-
+set
+-
+queue
+-
+footstep_planning/FileIO.h
+-
+footstep_planning/AbstractNode.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/PathPlanning.h
+sstream
+-
+footstep_planning/AbstractNode.h
+-
+footstep_planning/GridMap.h
+-
+footstep_planning/Heuristic.h
+-
+ClosedList.h
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/ClosedList.h
+OpenList.h
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/include/footstep_planning/OpenList.h
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/src/ClosedList.cpp
+footstep_planning/ClosedList.h
+-
+footstep_planning/FileIO.h
+-
+footstep_planning/AbstractNode.h
+-
+footstep_planning/FileIO.h
+-
+iostream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/src/FileIO.cpp
+footstep_planning/FileIO.h
+-
+iostream
+-
+cstring
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/src/FootstepMap.cpp
+vector
+-
+limits
+-
+angles/angles.h
+-
+footstep_planning/GridMap.h
+-
+footstep_planning/FootstepMap.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/src/FootstepNode.cpp
+footstep_planning/FootstepNode.h
+-
+cmath
+-
+angles/angles.h
+-
+sstream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/src/FootstepPlanning.cpp
+footstep_planning/FootstepPlanning.h
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/src/OpenList.cpp
+footstep_planning/OpenList.h
+-
+iostream
+-
+
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/src/12_footstep_planning/src/PathPlanning.cpp
+footstep_planning/PathPlanning.h
+-
+cmath
+-
+

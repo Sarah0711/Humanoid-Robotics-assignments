@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/projective_geometry_node.dir/src/main.cpp.o  -o projective_geometry_node -rdynamic libprojective_geometry.a 

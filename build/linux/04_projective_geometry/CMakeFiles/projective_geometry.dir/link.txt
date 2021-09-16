@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprojective_geometry.a  CMakeFiles/projective_geometry.dir/src/ProjectiveGeometry.cpp.o
+/usr/bin/ranlib libprojective_geometry.a

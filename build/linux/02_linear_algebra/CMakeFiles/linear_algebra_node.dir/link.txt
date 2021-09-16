@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/linear_algebra_node.dir/src/main.cpp.o  -o linear_algebra_node -rdynamic liblinear_algebra.so -Wl,-rpath,"/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/02_linear_algebra" 

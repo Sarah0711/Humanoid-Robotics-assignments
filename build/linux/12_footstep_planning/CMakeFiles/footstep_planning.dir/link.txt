@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfootstep_planning.a  CMakeFiles/footstep_planning.dir/src/ClosedList.cpp.o CMakeFiles/footstep_planning.dir/src/FileIO.cpp.o CMakeFiles/footstep_planning.dir/src/FootstepMap.cpp.o CMakeFiles/footstep_planning.dir/src/FootstepNode.cpp.o CMakeFiles/footstep_planning.dir/src/FootstepPlanning.cpp.o CMakeFiles/footstep_planning.dir/src/OpenList.cpp.o CMakeFiles/footstep_planning.dir/src/PathPlanning.cpp.o
+/usr/bin/ranlib libfootstep_planning.a

@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/linear_algebra-test.dir/test/test_linear_algebra.cpp.o CMakeFiles/linear_algebra-test.dir/home/aakash/Desktop/Bonn/Humanoid_Robotics/group-25/src/gtest/src/gtest-all.cc.o  -o linear_algebra-test -rdynamic liblinear_algebra.so -lpthread -Wl,-rpath,"/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/02_linear_algebra" 

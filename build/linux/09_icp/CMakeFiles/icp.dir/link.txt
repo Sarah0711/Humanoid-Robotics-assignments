@@ -1,0 +1,2 @@
+/usr/bin/ar qc libicp.a  CMakeFiles/icp.dir/src/ICP.cpp.o CMakeFiles/icp.dir/src/FileIO.cpp.o
+/usr/bin/ranlib libicp.a

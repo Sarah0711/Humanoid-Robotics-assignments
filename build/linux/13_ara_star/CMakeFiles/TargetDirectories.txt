@@ -1,0 +1,6 @@
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/13_ara_star/CMakeFiles/test.dir
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/13_ara_star/CMakeFiles/ara_star.dir
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/13_ara_star/CMakeFiles/ara_star_node.dir
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/13_ara_star/CMakeFiles/rebuild_cache.dir
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/13_ara_star/CMakeFiles/edit_cache.dir
+/home/aakash/Desktop/Bonn/Humanoid Robotics/group-25/build/linux/13_ara_star/CMakeFiles/ara_star-test.dir

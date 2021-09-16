@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/inverse_kinematics-test.dir/test/test_inverse_kinematics.cpp.o CMakeFiles/inverse_kinematics-test.dir/home/aakash/Desktop/Bonn/Humanoid_Robotics/group-25/src/gtest/src/gtest-all.cc.o  -o inverse_kinematics-test -rdynamic libinverse_kinematics.a -lpthread 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libforward_kinematics.a  CMakeFiles/forward_kinematics.dir/src/ForwardKinematics.cpp.o CMakeFiles/forward_kinematics.dir/src/FileIO.cpp.o
+/usr/bin/ranlib libforward_kinematics.a

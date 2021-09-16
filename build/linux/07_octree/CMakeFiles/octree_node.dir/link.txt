@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/octree_node.dir/src/main.cpp.o  -o octree_node -rdynamic liboctree.a 

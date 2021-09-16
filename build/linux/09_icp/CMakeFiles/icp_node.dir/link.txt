@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/icp_node.dir/src/main.cpp.o  -o icp_node -rdynamic libicp.a 

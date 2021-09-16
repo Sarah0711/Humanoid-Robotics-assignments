@@ -1,0 +1,2 @@
+/usr/bin/ar qc libirm.a  CMakeFiles/irm.dir/src/IRM.cpp.o CMakeFiles/irm.dir/src/AbstractIRM.cpp.o
+/usr/bin/ranlib libirm.a

@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/footstep_planning-test.dir/test/test_footstep_planning.cpp.o CMakeFiles/footstep_planning-test.dir/home/aakash/Desktop/Bonn/Humanoid_Robotics/group-25/src/gtest/src/gtest-all.cc.o  -o footstep_planning-test -rdynamic libfootstep_planning.a -lpthread 

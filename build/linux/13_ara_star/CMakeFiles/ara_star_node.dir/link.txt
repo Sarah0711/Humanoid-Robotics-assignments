@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/ara_star_node.dir/src/main.cpp.o  -o ara_star_node -rdynamic libara_star.a 

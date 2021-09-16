@@ -1,0 +1,1 @@
+/home/aakash/anaconda3/bin/c++   -g   CMakeFiles/signed_distance_function-test.dir/test/test_signed_distance_function.cpp.o CMakeFiles/signed_distance_function-test.dir/home/aakash/Desktop/Bonn/Humanoid_Robotics/group-25/src/gtest/src/gtest-all.cc.o  -o signed_distance_function-test -rdynamic libsigned_distance_function.a -lpthread 
